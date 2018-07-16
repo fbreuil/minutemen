@@ -1,0 +1,13 @@
+///* ========================================================================
+//   BUTTONS
+//   ======================================================================== */
+
+.button {
+    cursor: pointer;
+    line-height: normal;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+    &:hover, &:active { text-decoration: none; }
+}

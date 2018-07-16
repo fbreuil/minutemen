@@ -1,0 +1,35 @@
+{
+    "name": "minutemen",
+    "version": "1.0.0",
+    "description": "ITCSS based boilerplate that is fast and simple to any project",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fbreuil/minutemen.git"
+    },
+    "author": "Felipe Breuil <felipe.breuil@gmail.com>",
+    "keywords": [
+        "scss",
+        "itcss",
+        "rscss",
+        "grids"
+      ],
+    "license": "MIT",
+    "devDependencies": {
+        "browser-sync": "^2.24.5",
+        "del": "^3.0.0",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^5.0.0",
+        "gulp-cache": "^1.0.2",
+        "gulp-css-base64": "^1.3.4",
+        "gulp-htmlmin": "^4.0.0",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-notify": "^3.2.0",
+        "gulp-sass": "^4.0.1",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.0",
+        "gulp-watch": "^5.0.0",
+        "merge-stream": "^1.0.1",
+        "path": "^0.12.7",
+        "run-sequence": "^2.2.1"
+    }
+}

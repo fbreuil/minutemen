@@ -1,0 +1,12 @@
+///* ========================================================================
+//   BASE
+//   ======================================================================== */
+
+body {
+    font-family: $font-family;
+    @include font-size($font-size);
+    @include line-height($line-height);
+    color: $font-color;
+    font-weight: $font-weight;
+    background: $background-color;
+}

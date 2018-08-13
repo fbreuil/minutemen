@@ -10,7 +10,7 @@ This project uses [SASS](https://sass-lang.com/), [Gulp](https://gulpjs.com/), [
 For grid system and other basic styles uses [Base](https://getbase.org/), [Eric Meyer](https://meyerweb.com/eric/tools/css/reset/) for reset and uses ITCSS to build the CSS Architecture.
 
 # Getting Started
-First step install the dependencies: [NodeJS](https://nodejs.org/en/) and [GulpJS](https://gulpjs.com/).
+First step install the dependencies: [NodeJS](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/) and [GulpJS](https://gulpjs.com/).
 
 ```
 # Clone this repository
@@ -21,7 +21,7 @@ cd minutemen
 yarn install --production
 
 # Install dev dependencies
-npm install
+yarn install
 ```
 
 # Tasks
